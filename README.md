@@ -1,2 +1,2 @@
-# Aloca-o_de_mem-ria_com_n-merios_aleat-rios
+# Alocacao_de_memoria_com_numerios_aleatorios
 Alocando espaço de memória e gerando número aleatório
